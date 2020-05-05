@@ -1190,6 +1190,11 @@
 		margin: 0 15px;
 	}
 }
+@media (max-width: 1600px) {
+	.container {
+		max-width: 1250px;
+	}
+}
 @media (max-width: 1490px) {
 	.container {
 		max-width: 1250px;
